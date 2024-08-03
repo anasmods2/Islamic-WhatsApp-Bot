@@ -4,14 +4,14 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = "2126xxxxxxxx" // هنا أضف رقمك
+global.botnumber = "967781994494" // هنا أضف رقمك
 
 global.owner = [
-  ['2126xxxxxxxx', '☪ ISLAMIC-WHATSAPP-BOT ☪', false]
+  ['967781994494', '☪ ISLAMIC-WHATSAPP-BOT ☪', false]
 ];
 
-global.suittag = ['2126xxxxxxxx'];
-global.prems = ['2126xxxxxxxx'];
+global.suittag = ['967781994494'];
+global.prems = ['967781994494'];
 
 
 global.packname = '♛ 𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚'
@@ -21,10 +21,10 @@ global.igfg = '♛ 𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚 ♛'
 global.wait = '*⠿⠶ إنتظر ⠶⠿*'
 global.eror = '*خطأ في جلب البيانات*'
 global.sitfe = 'ᴡᴡᴡ.ᴛᴇᴄʜsᴏᴜɴᴇ.ᴄᴏᴍ'
-global.nomorown = '212697118528' // لتجربة البوت
+global.nomorown = '967781994494' // لتجربة البوت
 
 
-global.mods = [];
+global.mods = ['967781994494'];
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
